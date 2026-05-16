@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Keep the 4 main notebooks
+!Dataset_construction.ipynb
+!Data_Pre-processing.ipynb
+!Model_training.ipynb
+!Evaluation_and_Deployment.ipynb
+!Evaluation_and_RAG.ipynb
+
+# Keep gitignore itself
+!.gitignore
